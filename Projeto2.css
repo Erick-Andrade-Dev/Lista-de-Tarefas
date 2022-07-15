@@ -1,0 +1,143 @@
+* {
+    margin: 0%;
+    background-color: rgb(84, 223, 223);
+}
+
+h1 {       
+    margin-left: 8px;
+    margin-top: 10px;
+}
+
+p {
+    margin-left: 8px;
+    margin-top: 15px;
+    margin-bottom: 5px;    
+       
+}
+
+#buttonAdd {
+    background-color: black;
+    color: antiquewhite;
+    font-weight: 900;
+}
+
+#tarefas {
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+#funcionamento {
+    font-weight: 900;
+    font-style: italic;
+}
+
+#buttonsFooter {
+    margin-top: 50px;
+    
+}
+
+#saved {
+    margin-left: 30px;
+    background-color: green;
+    color: antiquewhite;
+    border-radius: 50%;
+    padding: 10px;
+    font-weight: 900;
+}
+
+#clearAll {
+    margin-left: 30px;
+    background-color: red;
+    color: antiquewhite;
+    border-radius: 50%;
+    padding: 10px;
+    font-weight: 900;
+}
+
+#desce {
+    margin-left: 30px;
+    background-color: orangered;
+    color: black;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+#sobe {
+    margin-left: 30px;
+    background-color: orangered;
+    color: black;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+#exclui {
+    margin-left: 10px;
+    background-color: rgb(66, 11, 11);
+    color: rgb(255, 255, 255);
+    border-radius: 50%;
+    padding: 10px;
+    font-weight: 900;
+}
+
+.listItem {
+    font-size: x-large;
+  
+    margin-right: 500px;
+    margin-top: 5px;
+}
+
+.tasksComplete {
+    text-decoration: line-through; 
+    
+}
+
+#selectedTask {
+    background-color: rgb(141, 123, 42);
+    margin-left: 30px;
+    border-radius: 50%;
+    padding: 10px;
+    color: aliceblue;
+    font-weight: 900;
+}
+
+.test {
+    background-color: rgb(16, 90, 84);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
